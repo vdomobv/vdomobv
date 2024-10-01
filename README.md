@@ -45,11 +45,12 @@
 
 <br>
 
+<!--
 <div align="center">
-  
 ![vdomobv's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdomobv&hide=contribs,prs&show_icons=true&theme=graywhite)
-
 </div>
+-->
+
 <!--
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
